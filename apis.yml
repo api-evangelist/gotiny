@@ -1,4 +1,16 @@
 aid: gotiny
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gotiny.png
 name: GoTiny
 description: "A lightweight URL shortener, focused on ease-of-use for the developer and end-user"
 url: https://github.com/robvanbakel/gotiny-api
