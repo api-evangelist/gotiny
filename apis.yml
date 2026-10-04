@@ -39,7 +39,6 @@ apis:
   - name: GoTiny
     description: "A lightweight URL shortener, focused on ease-of-use for the developer and end-user"
     humanURL: https://github.com/robvanbakel/gotiny-api
-    baseURL: https://github.com/robvanbakel/gotiny-api
     tags:
       - URL Shorteners
     properties:
